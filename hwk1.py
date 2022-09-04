@@ -42,6 +42,7 @@ def capatalizeImperative(word):
         newWord = x[0].upper() + x[1:].lower()
 
     return newWord
+
 # 5 - use list comprehension to solve 4
 
 def capatalizeComprehension(word):
